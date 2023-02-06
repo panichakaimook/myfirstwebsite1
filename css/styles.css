@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+p{
+    color: aquamarine;
+}
+
+hr{
+    border-style: none;
+    width: 20%;
+    border-width: 0px;
+    border-color: blueviolet;
+    border-top-style: none
+    }
